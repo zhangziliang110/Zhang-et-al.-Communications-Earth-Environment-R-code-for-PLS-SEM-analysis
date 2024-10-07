@@ -1,0 +1,1 @@
+# Zhang-et-al.-Communications-Earth-Environment-R-code-for-PLS-SEM-analysis
